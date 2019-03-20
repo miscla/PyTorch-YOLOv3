@@ -1,0 +1,6 @@
+E:\Skripsi\PyTorch-YOLOv3\data\azure\vlcsnap-2019-01-09-20h56m08s595.png
+E:\Skripsi\PyTorch-YOLOv3\data\azure\vlcsnap-2019-01-09-20h57m18s684.png
+E:\Skripsi\PyTorch-YOLOv3\data\azure\vlcsnap-2019-01-14-10h12m06s490.png
+E:\Skripsi\PyTorch-YOLOv3\data\azure\vlcsnap-2019-01-14-10h13m03s411.png
+E:\Skripsi\PyTorch-YOLOv3\data\azure\vlcsnap-2019-01-14-10h13m52s517.png
+E:\Skripsi\PyTorch-YOLOv3\data\azure\vlcsnap-2019-01-14-10h14m44s511.png
